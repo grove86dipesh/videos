@@ -1,5 +1,4 @@
-{
-  "articles": [
+"articles": [
     {
       "id": "1",
       "title": "Big Buck Bunny",
@@ -105,4 +104,3 @@
       "isLive": false
     }
   ]
-}
